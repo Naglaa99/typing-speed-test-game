@@ -27,4 +27,4 @@ This project is a Typing Speed Test Game where players can select a difficulty l
 
 ## Live Demo :
 
-[]
+[https://naglaa99.github.io/typing-speed-test-game/]
