@@ -1,8 +1,8 @@
-## Typing Speed Test Game
+# Typing Speed Test Game
 
 This project is a Typing Speed Test Game where players can select a difficulty level, then try to type random words as fast as possible before the time runs out. The game dynamically updates based on the difficulty level and displays real-time feedback on score and time.
 
-# Features
+## Features
 
 - Three difficulty levels: Easy, Medium, and Hard.
 - Randomly generated words from a predefined list.
@@ -13,7 +13,7 @@ This project is a Typing Speed Test Game where players can select a difficulty l
 - SweetAlert popups for success and failure.
 - Ability to restart the game after completion or failure.
 
-# Technologies Used
+## Technologies Used
 
 - HTML for the structure.
 - CSS (Tailwind CSS) for styling and responsive design.
@@ -25,6 +25,6 @@ This project is a Typing Speed Test Game where players can select a difficulty l
 ![preview img](./assets/preview-goodState.png)
 ![preview img](./assets/preview-failedState.png)
 
-# Live Demo :
+## Live Demo :
 
-[]
+[https://naglaa99.github.io/typing-speed-test-game/]
