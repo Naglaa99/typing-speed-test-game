@@ -16,15 +16,19 @@ This project is a Typing Speed Test Game where players can select a difficulty l
 ## Technologies Used
 
 - HTML for the structure.
-- CSS (Tailwind CSS) for styling and responsive design.
+- Tailwind CSS for styling and responsive design.
 - JavaScript for game logic.
 - SweetAlert2 for beautiful, customizable alert dialogs.
 - LocalStorage for saving and retrieving game levels
+
+<br>
 
 ![preview img](./assets/Typing-Speed-Test-Game.png)
 ![preview img](./assets/preview-goodState.png)
 ![preview img](./assets/preview-failedState.png)
 
+<br>
+
 ## Live Demo :
 
-[https://naglaa99.github.io/typing-speed-test-game/]
+https://naglaa99.github.io/typing-speed-test-game
